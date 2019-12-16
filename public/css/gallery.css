@@ -1,0 +1,11 @@
+P.blocktext {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em
+}
+
+P.TitleText{
+  font-size: 40px;
+  text-align: center;
+}
