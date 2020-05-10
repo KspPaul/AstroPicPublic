@@ -15,7 +15,7 @@ This project includes everything a forum for astrophotography needs:
 
 ## How astrometry is used:
 
-When a user uploads a image which gets uploaded to astrometry.net:
+When a user uploads a image it gets uploaded to astrometry.net:
 ![base image](https://i.imgur.com/9GPV1NE.jpg)
 
 After the image is processed the api returns a annoted image with more information like, which stars are in it, which other objects can be seen etc:
